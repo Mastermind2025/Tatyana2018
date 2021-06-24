@@ -88,6 +88,15 @@ p.mail {
     display: inline-block;
     vertical-align: middle;
 }
+.facebook2{
+    background: url('../img/fec3.jpg') no-repeat;
+    /*border: 1px solid red;*/
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 
 .position__mail {
     width: 27px;
