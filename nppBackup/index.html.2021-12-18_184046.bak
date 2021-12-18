@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<title>Психология отношений</title>
@@ -55,7 +55,7 @@
 <main>
 	<div class='main_box'>
 		<div class='main_box_tatyana'>
-<span>Татьяна Мирошниченко</span> - психолог<br>
+<span>Татьяна Мирошниченко</span> - психолог</br>
 
 		</div>
 		<p class='small_box'>
@@ -132,7 +132,7 @@
 	<div class='container_family_coupl'>
 	<img src='img/bed01.jpg' alt='' class='coupl'/>
 	<h3>Семейная терапия, разрешение конфликтных
-	ситуаций.<br>
+	ситуаций.</br>
 	Поиск взаимного
 	понимания</h3>	
 	</div>
@@ -167,7 +167,7 @@
 
 <div class='container_family'>
 
-<h1>Татьяна Мирошниченко наиболее компетентна<br>
+<h1>Татьяна Мирошниченко наиболее компетентна</br>
 в вопросах</h1>
 
 <ul class='container_family_box'>
@@ -190,9 +190,9 @@
 	<div class='footer_box'>
 		<div class='contacts'>
 			<h2>КОНТАКТЫ</h2>
-			<p>г. Киев, ул. Механизаторов, 14&nbsp;
-			почтовый индекс 04021&nbsp;
-			телефон 380 95 974 10 10&nbsp;
+			<p>г. Киев, ул. Механизаторов, 14&nbsp
+			почтовый индекс 04021&nbsp
+			телефон 380 95 974 10 10&nbsp
 			Skype: 9f1055cd23
 			</p>
 		</div>
@@ -200,7 +200,7 @@
 </footer>
 <div class='container_copyright'>
 	<div class='container_copyright_center'>
-	<div class='container_copyright_box'>&#169;ArtWebStudio</div>
+	<div class='container_copyright_box'>&#169ArtWebStudio</div>
 	</div>
 </div>
 </div>
